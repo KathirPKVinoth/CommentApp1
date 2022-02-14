@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Comment Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="dont_have">Don\'t have an account?</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <string name="secret">Secret</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="content">By clicking the \"Sign Up\" button, you creating an account, and you agree to the Terms of Use</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="submit">Submit</string>
+    <string name="message">What would you like to share with world?</string>
+    <string name="comments">Comments</string>
+    <string name="filter">Filter</string>
+    <string name="already_have">Already have an account?</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="MsgCap">What would you like to share with world?</string>
+    <string name="blogs">Comments</string>
+</resources>

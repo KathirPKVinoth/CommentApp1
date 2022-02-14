@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/drawable/edit_text_border.xml" value="0.1045" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/drawable/ic_lock.xml" value="0.132" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_comments.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_forgot_pass.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_login.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_main2.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_message.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_post.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/activity_register.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/each_post.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/frogot.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/item.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Vinoth/AndroidStudioProjects/CommentApplication/app/src/main/res/layout/register.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
